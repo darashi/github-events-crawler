@@ -12,6 +12,7 @@
   "scripts":{
     "start":"./bin/github-events-crawler"
   },
+  "main": "lib/github-events-crawler",
   "bin":{
     "github-events-crawler":"./bin/github-events-crawler"
   }
