@@ -1,0 +1,18 @@
+{
+  "name":"github-events-crawler",
+  "version":"0.0.0",
+  "dependencies":{
+    "underscore":"",
+    "moment":"",
+    "mkdirp":""
+  },
+  "engines":{
+    "node":"~0.6.0"
+  },
+  "scripts":{
+    "start":"./bin/github-events-crawler"
+  },
+  "bin":{
+    "github-events-crawler":"./bin/github-events-crawler"
+  }
+}
